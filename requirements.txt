@@ -63,7 +63,6 @@ PyMySQL==1.1.1
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2023.3.post1
-pywin32==306
 pyzmq==25.1.2
 referencing==0.32.1
 requests==2.31.0
